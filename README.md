@@ -6,8 +6,6 @@ Never Stop Learning.
 
 Passionate IT graduate with a strong interest in full-stack web development, system design, and workflow automation. Experienced in building web applications, designing databases, developing REST APIs, and integrating AI-powered workflows through academic, personal, and internship projects. Quick learner with strong problem-solving skills, eager to take on new challenges and continuously improve technical expertise.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [phusa13fu@gmail.com](mailto:phusa13fu@gmail.com)
 * 🧠  I'm currently learning Building production-ready applications
 * 👥  I'm looking to collaborate on Open to any project that challenges me and helps me grow.
 * 💬  Ask me about Survived another day of debugging and Git conflicts.
