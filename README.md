@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Stang <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkOGJydTR3bGpyam9lZDE0Zmh6ejNnYXMydjNscTVsYXN3bTA0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UReJaO4iSJ1DY6RdmK/giphy.gif" width="30" />
 ==============================================================================================================================
 
-Full-Stack-Dev
 Never Stop Learning.
 --------------------
 
