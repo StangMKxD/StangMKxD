@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Stang
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Stang <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkOGJydTR3bGpyam9lZDE0Zmh6ejNnYXMydjNscTVsYXN3bTA0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UReJaO4iSJ1DY6RdmK/giphy.gif" width="30" />
 ==============================================================================================================================
 
 Never Stop Learning.
@@ -17,7 +17,7 @@ Passionate IT graduate with a strong interest in full-stack web development, sys
 </p>
 
 <p align="left">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkOGJydTR3bGpyam9lZDE0Zmh6ejNnYXMydjNscTVsYXN3bTA0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UReJaO4iSJ1DY6RdmK/giphy.gif" alt="Coding GIF" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N6eDdqb3p1dTJmenc3YnlvcnFhdHR6MHJlN3M4eWVqMmR2dDJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhNRsZgfkjzX3KzKyh/giphy.gif" alt="Coding GIF" />
 </p>
 
 ### Socials
